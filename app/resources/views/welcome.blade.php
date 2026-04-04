@@ -274,6 +274,6 @@
             <div class="h-14.5 hidden lg:block"></div>
         @endif
 
-        <a href="{{ route('user') }}">Link User</a>
+        {{-- <a href="{{ route('user') }}">Link User</a> --}}
     </body>
 </html>
